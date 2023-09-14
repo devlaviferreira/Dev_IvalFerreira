@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**devlaviferreira/devlaviferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Ival Ferreira 🖐️
 
-Here are some ideas to get you started:
+![Ival Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlaviferreira&show_icons=true&theme=onedark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que uso no meu dia
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />    
+    <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="microsoft_office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />    
+</div><br/>
+
+Apaixonado por tecnologia, engenharia, maquinas, música, viagens e a companhia da família.
+
+Atualmente tenho estudado e buscado aperfeicoar meus conhecimentos na área de programação como Dev Full Stack.
+
+##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlaviferreira&langs_count=8)
