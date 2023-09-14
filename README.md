@@ -16,7 +16,7 @@
 
 Apaixonado por tecnologia, engenharia, maquinas, música, viagens e a companhia da família.
 
-Atualmente tenho estudado e buscado aperfeicoar meus conhecimentos na área de programação como Dev Full Stack.
+Atualmente estudo e busco aperfeicoar meus conhecimentos na área de programação como Dev Full Stack.
 
 ##
 
